@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance appointing a committee for the army, and treasurers at war. Saturday, January 28. 1653. Ordered by His Highness the Lord Protector and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74495</idno>
+            <idno type="STC">Thomason E1063_10</idno>
+            <idno type="STC">ESTC R209543</idno>
+            <idno type="EEBO-CITATION">99868419</idno>
+            <idno type="PROQUEST">99868419</idno>
+            <idno type="VID">169176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169176)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance appointing a committee for the army, and treasurers at war. Saturday, January 28. 1653. Ordered by His Highness the Lord Protector and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 69-74, 95-101, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653. [i.e. 1654]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169176:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE Appointing a COMMITTEE FOR THE ARMY, AND Treaſurers at War.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>
+                              <hi>Saturday,</hi> January 28. 1653.</date>
+                        </opener>
+                        <p>
+                           <hi>ORdered by His Highneſs the Lord Protector and His Council, that this Ordinance and Orders be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>HENRY SCOBELL Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Prin<g ref="char:EOLhyphen"/>ters to His Highneſs the Lord Protector, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169176:2"/>
+            <pb n="69" facs="tcp:169176:2"/>
+            <head>AN ORDINANCE Appointing a Committee for the ARMY, AND Treaſurers at War.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Ordained and Declared by his Highneſſe the Lord Protector, with the Conſent of his Council, And it is hereby Ordained, That for the more effectual putting in execution of an Act of Parlament, Entituled, <hi>An Act for an Aſ<g ref="char:EOLhyphen"/>ſeſsment
+<pb n="70" facs="tcp:169176:3"/>at the rate of one hundred and twenty thouſand pounds by the Moneth for ſix Moneths, from the five and twentieth of <hi>December</hi> 1653. to the four and twentieth of <hi>June</hi> then next enſuing, towards the maintenance of the Armies and Navy of this Com<g ref="char:EOLhyphen"/>monwealth,</hi> and publiſhed in print by Order of Parlament of the four and twentieth of <hi>November 1653</hi> And for the Receiving, Diſ<g ref="char:EOLhyphen"/>poſing and Iſſuing forth of the Moneys pay<g ref="char:EOLhyphen"/>able by vertue thereof, and of all other Moneyes that by any Act, Ordinance, or Order of Parlament have been, or are here<g ref="char:EOLhyphen"/>by, or before the four and twentieth of <hi>June 1654.</hi> ſhall be appointed for, or towards the maintenance of, the Armies of this Common<g ref="char:EOLhyphen"/>wealth, <hi>John Clerk, Edward Clud, Richard Lu<g ref="char:EOLhyphen"/>cy, Edward Horſeman, James Philips, Edward Gill, John Hildeſley, Jervas Bennet,</hi> Eſqs. Captain <hi>Adam Baines,</hi> or any three or more of them, be a Committee for the Army, And that <hi>John Blackwell</hi> the younger, and <hi>Richard Dean,</hi> Eſqs. ſhall be and are hereby continued and authorized to be Treaſurers at War for the ſaid ſix moneths Aſſeſsment, from the five and twentieth day of <hi>December 1653.</hi> untill the four and twentieth of <hi>June 1654.</hi> and for all other the ſummes of money for which they were appointed Treaſurers at Warr by vertue of an Act, Entituled, <hi>An Act appoint<g ref="char:EOLhyphen"/>ing a Committee for the Army, and Treaſurers at Warr,</hi> publiſhed by Order of Parlament of the five and twentieth of <hi>July 1653.</hi> And the ſaid Committee for the Army are hereby ap<g ref="char:EOLhyphen"/>pointed, and authorized to have the Care and mannaging of the whole buſineſs of bringing in the moneys appointed to be Aſſeſſed,
+<pb n="71" facs="tcp:169176:3"/>levyed, collected, and paid, in all and every the Counties, Cities and places in <hi>England,</hi> and <hi>Wales,</hi> towards the ſaid ſix months Aſſeſ<g ref="char:EOLhyphen"/>ments of one hundred and twenty thouſand pounds a moneth, and of all other moneys du, and in arrear of any former Aſſeſsments; And for that purpoſe, and alſo for the iſſuing forth and diſpoſing of the ſaid ſix moneths Aſſeſs<g ref="char:EOLhyphen"/>ment, and all other the ſaid moneys, in like manner as the Aſſeſsments and ſums (for the ordering and diſpoſing whereof, the per<g ref="char:EOLhyphen"/>ſons named in the ſaid laſt recited Act were ap<g ref="char:EOLhyphen"/>pointed a Committee for the Army) were to be iſſued forth and diſpoſed, that is to ſay, For the iſſuing forth of forty thouſand pounds by the moneth out of the ſaid ſix moneths Aſſeſs<g ref="char:EOLhyphen"/>ment of one hundred and twenty thouſand pounds a moneth to the Treaſurer of the Na<g ref="char:EOLhyphen"/>vy for the uſe of the Navy; and for the iſſu<g ref="char:EOLhyphen"/>ing forth and diſpoſing of all other monys to be by vertue hereof iſſued forth, and diſpoſed by them for the ſame uſes and purpoſes for which the ſix moneths Aſſeſsments, and o<g ref="char:EOLhyphen"/>ther ſums in the ſaid laſt recited Act mentioned, were appointed to be by them diſpoſed, or for ſuch other uſes as are hereafter mentioned, The ſaid Committee for the Army ſhall have, &amp; are hereby authorized to uſe, &amp; put in execution, all and every the powers and Authorities, in as full and ample manner to all intents &amp; purpoſes as the Comittee of the Army had or were men<g ref="char:EOLhyphen"/>tioned to have by vertue of the ſaid laſt recited Act for the mannagement of the Matters and affairs thereby committed unto them, and to proceed therein according to the powers, rules and limitations in the ſaid Act expreſſed. And the ſaid Committee for the Army ſhall be, and are hereby further impowred, and authorized
+<pb n="72" facs="tcp:169176:4"/>to have and put in execution the ſeveral Pow<g ref="char:EOLhyphen"/>ers and Authorities which were by two ſeveral Orders of Parlament of the fourteenth of <hi>April 1652.</hi> expreſſed to be given to the then Committee for the Army, for the diſpo<g ref="char:EOLhyphen"/>ſal of the Arrears of all Aſſeſsments in the ſaid Orders mentioned And ſhall be, and are hereby impowred to confirm, or a ter any Or<g ref="char:EOLhyphen"/>der, or Warrant, which (being made by the then Committee for the Army, relating to the ſaid Orders of Parlament, or either of them) have not, or ſhall not before the paſſing of this Ordinance be fulfilled, obſerved and fully exe<g ref="char:EOLhyphen"/>cuted. And alſo the ſaid Committee for the Ar<g ref="char:EOLhyphen"/>my ſhall, and are hereby impowred and au<g ref="char:EOLhyphen"/>thorized to proceed in the ſatisfying the remain<g ref="char:EOLhyphen"/>der of the Arrears due for ſervice in <hi>Scotland,</hi> before the twentieth of <hi>October 1651.</hi> and in defaulking ſuch ſums of money as upon exa<g ref="char:EOLhyphen"/>mination ſhall appear to have been paid to any perſon, for himſelf, or others, in lieu of thoſe Arrears, more than ought to have been paid according to the directions of an Order of Parlament of the eighth of <hi>Auguſt 1653.</hi> made in that behalf. And the ſaid Committee for the Army ſhall likewiſe have all and every the po<g ref="char:EOLhyphen"/>wers and Authorities, which the Commit<g ref="char:EOLhyphen"/>tee for the Army had, or were mentioned to have by the Act herein laſt before recited. And all and every the Commiſſioners for Aſſeſs<g ref="char:EOLhyphen"/>ments, Receivers, Collectors, Sub-Col<g ref="char:EOLhyphen"/>lectors, and other perſons concerned, or that ſhall be concerned in the aſſeſſing, levying, collecting, and payment of any part of the Aſ<g ref="char:EOLhyphen"/>ſeſsments, or other ſums before mentioned, or in the taking or making of rates, or ſurveys for the Aſſeſsments, ſhall be, and are hereby re<g ref="char:EOLhyphen"/>quired to obſerve ſuch Orders and Directions,
+<pb n="73" facs="tcp:169176:4"/>as ſhall be made, and given forth in thoſe be<g ref="char:EOLhyphen"/>halfs by the ſaid Committee for the Army. And be it Ordained, and it is hereby Ordained, That the Warrants and Orders of the ſaid Commit<g ref="char:EOLhyphen"/>tee for the Army, to all, or any the purpoſes a<g ref="char:EOLhyphen"/>foreſaid, be by the ſaid Treaſurers at War, and by Sir <hi>John Wollaſton,</hi> Knight, and the reſt of the former Treaſurers at War, and all others concerned therein, obſerved and obeyed accordingly; And the warrant or warrants of the ſaid Committee for the Army ſhall be to all, and every the Treaſurers at War aforeſaid a ſufficient diſcharge. And the ſaid Committee for the Army ſhall be, and are hereby authori<g ref="char:EOLhyphen"/>zed and required, to exerciſe, and put in execu<g ref="char:EOLhyphen"/>tion, all and every the powers and authorities given to the Committee for the Army by an Act of Parlament publiſhed in print by Order of Parlament of the nineteenth of <hi>October 1653.</hi> touching the ſtating and determining the Accompts of all Officers and Souldiers, &amp;c. Provided that the ſaid Committee for the Ar<g ref="char:EOLhyphen"/>my do not ſtate, or make any Certificate for a<g ref="char:EOLhyphen"/>ny ſum claimed to be in Arrear and due before the fifteenth of <hi>January 1647.</hi> And be it fur<g ref="char:EOLhyphen"/>ther Ordained by the Authority aforeſaid, that the ſaid Treaſurers at War hereby continued, ſhall have the ſame powers and Authorities to all intents and purpoſes, and ſhall have and take the like Salary and allowances for ſix moneths, from the five and twentieth day of <hi>December 1653.</hi> or proportionably for ſo long time as they ſhall continue to be Treaſurers at War, as they had, and as were appoin<g ref="char:EOLhyphen"/>ted to be made unto them by the Act herein be<g ref="char:EOLhyphen"/>fore recited, publiſhed in print the five and twen<g ref="char:EOLhyphen"/>tieth day of <hi>July 1653.</hi> And the reſpective Re<g ref="char:EOLhyphen"/>ceivers General, that are or ſhall be appointed
+<pb n="74" facs="tcp:169176:5"/>to receive any part of the ſaid ſix months Aſſeſ<g ref="char:EOLhyphen"/>ments of one hundred and twenty thouſand pounds a moneth, commencing the five and twentieth of <hi>December 1653.</hi> ſhall forthwith after the receit thereof tranſmit and pay, or cauſe to be paid, the monys by them ſo received, to the ſaid Treaſurers at War, or where, or to whom they ſhall appoint to receive the ſame. And the receipt of the ſaid Treaſurers at War, ſhall be to the reſpective Receivers General, and to all other perſons, who ſhall by vertue of this Ordinance pay any moneys unto them, for the purpoſes aforeſaid, a ſufficient diſcharge. And the ſaid Committee for the Army ſhall be, and are hereby authorized and required by their warrant to Order and diſpoſe the monethly Aſſeſsment laid upon <hi>Scotland</hi> (by reſolve of Parlament, dated the twelfth day of <hi>November 1653.</hi>) for and towards the payment of the Forces, and other neceſſary contingencies of the Military ſervice there; And the Treaſurer, or Receiver General of the ſaid Aſſeſsment is hereby ordered and required to obſerve ſuch warrant as ſhall be directed unto him by the ſaid Committee for the Army for the purpoſes aforeſaid. And the ſaid Committee for the Ar<g ref="char:EOLhyphen"/>my ſhall be and are hereby impowred to give warrant for the ſatisfying, and allowing of all ſuch Sums of money as were disburſed by any Receivers General of the Aſſeſsments for the Army appointed before the five and twenti<g ref="char:EOLhyphen"/>eth of <hi>December 1651.</hi> or by any former Treaſu<g ref="char:EOLhyphen"/>rers at War, by any Order of Parlament, or by any order or direction of any former Com<g ref="char:EOLhyphen"/>mittee for the Army. Provided that ſuch dis<g ref="char:EOLhyphen"/>burſements were ordered and made for ſuch purpoſes and uſes, for which the then
+<pb n="95" facs="tcp:169176:5"/>Committee for the Armie ought to have given their warrant, and did not give the ſame. And foraſmuch as the Forces in <hi>England, Ireland,</hi> and <hi>Scotland</hi> do neceſſarily require, and call for the monies appointed for their uſe out of the one hundred thouſand pounds charged for the uſe of the Armie, by Order of Parlament of the firſt of <hi>Januarie 1652,</hi> and ariſing by the ſale of and Compoſition for Delinquents Eſtates; and alſo for ſom further ſupplie to bee made for them; Bee it therefore Ordeined, that all and every ſuch ſumme and ſummes of monie as ſhall, on and after the thirtieth day of <hi>Januarie 1653,</hi> bee paid unto and received by the Treaſurers at <hi>Goldſmith's-Hall</hi> for Sequeſtrations or Compo<g ref="char:EOLhyphen"/>ſitions (except for penſions and paiments for the uſe of maimed Souldiers already appoint<g ref="char:EOLhyphen"/>ed out of their receipts) ſhall bee paid by the ſaid Treaſurers unto the Treaſurers at War hereby appointed, untill the remainder of the ſaid one hundred thouſands pounds, or ſo much thereof as ſhall not bee ſatisfied by the moyetie of the monies ariſing by ſale of Delinquent's Eſtates upon the Act of Parlament for ſale of and Compoſition for thoſe Eſtates, ſhall bee fully ſatisfied. And alſo until the ſumme of one hundred thouſand pounds more bee fully ſatiſ<g ref="char:EOLhyphen"/>fied and paid out of the ſaid receipt for the fur<g ref="char:EOLhyphen"/>ther ſupplie of the Armies. And the Treaſu<g ref="char:EOLhyphen"/>rers for Sequeſtrations and Compoſitions are hereby required to make paiment of the remainder of the ſaid firſt one hundred thouſand pounds. And alſo of the other
+<pb n="96" facs="tcp:169176:6"/>one hundred thouſand pounds to the ſaid Trea<g ref="char:EOLhyphen"/>ſurers at War accordingly, whoſe receipt ſhall bee to the Treaſurers for Sequeſtrations and Compoſitions a ſufficient Diſcharge.</p>
+            <p>And bee it further Ordeined that the ſaid Committee for the Armie ſhall bee, and hereby are impowred (by themſelvs, or ſuch others as they ſhall appoint) to call to Accompt any Re<g ref="char:EOLhyphen"/>ceivers, Collectors, Sub-collectors, or other perſons who have received any ſumme or ſummes of monie, paiable, or received by vir<g ref="char:EOLhyphen"/>tue of any Act, Ordinance or Order of Parla<g ref="char:EOLhyphen"/>ment for the Britiſh forces in <hi>Ireland,</hi> or for the relief or uſe of any the diſtreſſed Britiſh In<g ref="char:EOLhyphen"/>habitants of <hi>Ireland,</hi> or for other ſervice or relief of <hi>Ireland;</hi> and all perſons concerned in ſuch Accompt, are required to obſerv the orders and directions of the ſaid Committee for the pur<g ref="char:EOLhyphen"/>poſe aforeſaid. And the ſaid Committee are hereby impowred to iſſue forth their Orders or Warrants to any perſon or perſons who have any of the ſaid monies in their hands, re<g ref="char:EOLhyphen"/>quiring them forthwith to paie in the ſame unto <hi>John Black well</hi> the younger, and <hi>Richard Deane</hi> Eſquires, Treaſurers at War, whoſe receipt ſhall bee a diſcharge for the monies which ſhall bee ſo paid unto them; and if it ſhall ap<g ref="char:EOLhyphen"/>pear unto the ſaid Committee, that any perſon or perſons have wilfully deteined in their hands any ſumme or ſummes of monie as aforeſaid, and not performed their dutie and truſt in the due diſpoſal thereof, the ſaid Committee for the Armie (if they ſhall ſee cauſ) are hereby Au<g ref="char:EOLhyphen"/>thorized
+<pb n="97" facs="tcp:169176:6"/>to award and order ſuch perſon or perſons to paie Intereſt for the ſame, after the rate of ſix pounds <hi>per Cent.</hi> for ſo long time as they have deteined the monie in their hands. And bee it further Ordeined, that <hi>John Black-well</hi> the younger, and <hi>Richard Deane</hi> Eſquires, Treaſurers at Warr, are hereby appointed and Authorized to receiv all ſuch ſummes of monie (appointed for the Brittiſh forces, or diſtreſſed Inhabitants of <hi>Ireland</hi>) as ſhall bee, by the ſaid Committee, by virtue here<g ref="char:EOLhyphen"/>of, ordered to bee paid unto them, and to iſſue forth the ſame for the uſes for which the ſaid monies were raiſed and received. And have been by any Act, Ordinance or Order of Parlament diſpoſed and appoint<g ref="char:EOLhyphen"/>ed, according to ſuch order as ſhall bee by the ſaid Committee for the Armie given therein; And the ſaid Committee for the Armie ſhall give their warrant for the diſpoſal thereof for the uſes aforeſaid, ac<g ref="char:EOLhyphen"/>cording to ſuch direction as they ſhall in that behalf receiv from the <hi>Lord PRO<g ref="char:EOLhyphen"/>TECTOR</hi> and his Council. And bee it further ordeined, that if any Receiver-General, Collector, Sub-collector, or other perſon or perſons ſhall neglect or refuſe to obſerv the Order, or Warrant of the ſaid Committee for the Armie, and not pay in the monie of them required, that then upon Certificate thereof from the ſaid Com<g ref="char:EOLhyphen"/>mittee for the Armie unto the Commiſſi<g ref="char:EOLhyphen"/>oners
+<pb n="98" facs="tcp:169176:7"/>for Sequeſtrations, the ſaid Com<g ref="char:EOLhyphen"/>miſſioners are hereby required to ſequeſter the Eſtate of ſuch perſon or perſons real and perſonal, until ſuch time as the War<g ref="char:EOLhyphen"/>rant or Orders of the ſaid Committee ſhall bee wholly obſerved and fulfilled.</p>
+         </div>
+         <div type="orders">
+            <pb n="99" facs="tcp:169176:7" rendition="simple:additions"/>
+            <head>Saturdaie 28 Januarie, 1653.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Rdered by his Highneſs the <hi>Lord PROTECTOR</hi> and the Council, That <hi>Thomas Rand, William Palmer, Robert Yarborow, Nehemiah Rawſon, William Har<g ref="char:EOLhyphen"/>vey, William Welby,</hi> Eſquires, and the Mayor of <hi>Lincoln</hi> for the time beeing, bee, and are hereby added to the Commiſſio<g ref="char:EOLhyphen"/>ners for the Monthly Aſſeſſment within the Countie of <hi>Lincoln,</hi> and are hereby impow<g ref="char:EOLhyphen"/>red and authorized to act and put in execu<g ref="char:EOLhyphen"/>tion all and every the powers given to the Commiſſioners in the Act intituled, an Act for an Aſſeſſment at the rate of one hundred and twentie thouſand pounds by the mouth for ſix months, from the <hi>25</hi> day of <hi>December 1653,</hi> till the <hi>24</hi> of <hi>June</hi> then next enſuing, to<g ref="char:EOLhyphen"/>wards the maintenance of the Armies and Navies of this Common-wealth, publiſhed in Print by order of the <hi>24</hi> of <hi>November 1653,</hi> in ſuch ſort, to all intents and purpoſes as the ſaid Commiſſioners therein named are thereby impowred to do, as if the perſons aforeſaid had been named in the ſaid Act.</p>
+            <p>
+               <pb n="100" facs="tcp:169176:8"/>Ordered by his Highneſs the <hi>Lord PRO<g ref="char:EOLhyphen"/>TECTOR,</hi> and the Council, that <hi>Edward Hooper</hi> Eſquire, and <hi>Philip Stansby,</hi> bee, and are hereby added to the Commiſſioners for the Monthly Aſſeſſment, within the Countie of <hi>Dorſet,</hi> and are hereby required and authorized to act and put in execution all and every the powers given to the Commiſſioners in the Act, intituled, an Act for an Aſſeſſment, at the rate of <hi>120000 l.</hi> by the month, for ſix months, from the <hi>25</hi> of <hi>December 1653,</hi> to the <hi>24</hi> of <hi>June</hi> then next enſuing, towards the maintenance of the Armies and Navies of this Common-wealth, publiſhed in Print by Order of the <hi>24</hi> of <hi>No<g ref="char:EOLhyphen"/>vember</hi> laſt, in ſuch ſort to all intents and pur<g ref="char:EOLhyphen"/>poſes as the ſaid Commiſſioners therein named are thereby impowred to do, and as if they had been named in the ſaid Act.</p>
+            <p>Ordered by his Highneſs the <hi>Lord PRO<g ref="char:EOLhyphen"/>TECTOR</hi> and the Council, that the Mayor of <hi>Banburie</hi> for the time beeing bee, and is here<g ref="char:EOLhyphen"/>by added to the Commiſſioners for the Month<g ref="char:EOLhyphen"/>ly Aſſeſſment within the Countie of <hi>Oxon;</hi> and is hereby required and authorized to act and put in execution all and every the powers given to the Commiſſioners in the Act, intituled, an Act for an Aſſeſſment, at the rate of <hi>120000 l.</hi> by the month, for ſix months, from the <hi>25</hi> day of <hi>December 1653,</hi> to the <hi>24</hi> of <hi>June</hi> then next enſuing, towards the maintenance of the Ar<g ref="char:EOLhyphen"/>mies and Navies of this Common-wealth, publiſhed in print by order of the <hi>24</hi> of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> laſt, in ſuch ſort to all intents and purpoſes as the ſaid Commiſſioners therein named are thereby impowred to do, and as if they had been named in the ſaid Act.</p>
+            <p>
+               <pb n="101" facs="tcp:169176:8"/>Ordered by his Highneſs the <hi>Lord PRO<g ref="char:EOLhyphen"/>TECTOR,</hi> and the Council, That <hi>Chriſto<g ref="char:EOLhyphen"/>pher Peircehay</hi> Eſquire, and Sir <hi>Robert Barwick</hi> Knight, bee, and are hereby added to the Com<g ref="char:EOLhyphen"/>miſsioners for the Monthly Aſſeſsment with<g ref="char:EOLhyphen"/>in the Countie of <hi>York;</hi> and are hereby requi<g ref="char:EOLhyphen"/>red and authorized to act and put in execution all and every the powers given to the commiſ<g ref="char:EOLhyphen"/>ſioners in the Act, intituled, an Act for an Aſ<g ref="char:EOLhyphen"/>ſeſsment, at the rate of <hi>120000 l.</hi> by the month, for ſix months, from the <hi>25</hi> day of <hi>December 1653,</hi> to the <hi>24</hi> of <hi>June</hi> then next enſuing, to<g ref="char:EOLhyphen"/>wards the maintenance of the Armies and Na<g ref="char:EOLhyphen"/>vies of this Common-wealth; publiſhed in print by order of the <hi>24</hi> of <hi>November</hi> laſt, in ſuch ſort to all intents and purpoſes as the ſaid com<g ref="char:EOLhyphen"/>miſſioners therein named are thereby impowred to do, and as if they had been named in the ſaid Act.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <date>
+                  <hi>Saturday,</hi> the 28<hi rend="sup">th</hi> of <hi>Januarie,</hi> 1653.</date>
+            </opener>
+            <p>ORdered by His Highneſs, the Lord PROTECTOR, and His Council, that the Ordinance and Orders aforeſaid bee forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen. Scobell Clerk of the Council.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Printed by <hi>William Du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord PROTECTOR. <hi>MDCLIII.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
